@@ -1,0 +1,38 @@
+.navbar    {
+    color-background:   #f1f1f1;
+    height:   40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    }
+.title   {
+       font-size: 40px;
+       }
+    #ime    {
+}
+    color: red;
+    }
+
+
+.name surname    {
+    color: purple;
+    font-family: monospace;
+    font-size: 22px;
+    }
+
+#grad    {
+     color: red;
+     }
+
+#starost    {
+     color: blue;
+     }
+
+.image:hover   {
+   border: 6px red solid;
+   padding: 5px;
+
+}
+#gumb:hover   {
+      color: purple;
+      }
